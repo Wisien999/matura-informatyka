@@ -1,0 +1,7 @@
+next := 0
+dla i := n, n-1, n-2, ..., 1 wykonuj:
+	c := A[i]+B[i]+next
+	next := c div p
+	C[i+1] := c mod p
+
+C[1] := next

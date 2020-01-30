@@ -1,0 +1,12 @@
+a)
+Typ			PoliczOfNr
+play-bike		14
+rowerki_i_pojazdy	115
+miejski			200
+szosowy_miejski		231
+szosowy_wyczynowy	259
+gorski_sportowy		289
+skladany		290
+uniwersalny		291
+gorski_rekreacyjny	311
+

@@ -1,0 +1,18 @@
+rodzina_zapachow	cena	nazwa_p
+kwiatowo-orientalna	103	Arla : Vivace
+kwiatowo-drzewna	104	Rougna
+kwiatowa		110	Ose Deurmaline
+skorzana		112	Ui Mare
+orientalna		113	Anille La Tosca
+orientalna lagodna	122	Ndy Warhol S Rose
+drzewna			123	Pperlee Bouquet
+aromatyczna		124	Ibrary Ollec D'amore
+pudrowa			139	Ivm Cristal
+wodna			146	Ilver Mounaya
+owocowa			154	Ake Perfucturne
+szyprowo-skorzana	158	Uir OtPlace
+cytrusowo-aromatyczna	178	Re Nostrum,ir
+szyprowa		226	Usk ti 1888
+cytrusowa		259	Sian Grad
+kwiatowo-szyprowa	287	Etish Pothal
+zielona			406	EOman

@@ -1,0 +1,4 @@
+c_nwd <- a1
+dla i <- 2, 3, ..., n:
+	c_nwd <- NWD(c_nwd, ai)
+wypisz c_nwd i zakoñcz

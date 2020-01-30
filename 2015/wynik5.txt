@@ -1,0 +1,19 @@
+Zad. 5.1:
+Kraina A: 33 929 579
+Kraina B: 41 736 619
+Kraina C: 57 649 017
+Kraina D: 36 530 387
+
+
+Zad. 5.2
+Kraina A: 3
+Kraina B: 4
+Kraina C: 8
+Kraina D: 4
+W ca³ym kraju: 19
+
+
+Zad. 5.3
+Wszyscy mieszkañcy Edulandii w 2025: 125930205
+Województwo z najwiêksz¹ liczb¹ mieszkañców: w12C
+Iloœæ przeludnieñ: 18

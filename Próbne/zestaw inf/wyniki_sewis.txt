@@ -1,0 +1,16 @@
+a)
+data		nazwa		nr_rejestr
+06.11.2012	wymiana opon	PO 3631H
+13.04.2012	wymiana opon	PO 3631H
+
+b)
+nazwa firmy	Liczba samochodów
+METALEX		30
+FASAT		29
+PETROLEUM	25
+KONSBET		23
+RENOWATOR	19
+WERTIX		18
+LUBEX		18
+FERMILAB	18
+FAMUR		17

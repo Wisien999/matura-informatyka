@@ -1,0 +1,16 @@
+Zad 1
+Zaj¹ce: 118,06
+Wilki: 43,46
+
+
+Zad 2
+Maleje populacja zajêcy: 53
+Maleje populacja wilków: 98
+
+
+Zad 4
+Najmniejsza populacja zajêcy: 80,71
+Najmniejsza populacja wilków: 28,05
+
+Najwiêksza populacja zajêcy: 123,32
+Najwiêksza populacja zajêcy: 54,15

@@ -1,0 +1,7 @@
+Zadanie 5.1
+Strefa A: 33929579
+strefa B: 41736619
+strefa C: 57649017
+strefa D: 36530387
+
+

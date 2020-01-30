@@ -1,0 +1,9 @@
+start <- F(1, n, a-1)
+je¿eli start > n wykonaj:
+	zwróæ 0 i zakoñcz
+end <- F(1, n, b)
+je¿eli F(1, n, b) <= 1 wykonaj:
+	zwróæ 0 i zakoñcz
+
+leng <- end - start
+zwróc leng i zakoñcz

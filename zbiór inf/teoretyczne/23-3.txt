@@ -1,0 +1,10 @@
+xi = x/2
+kontynu = prawda
+dopuki kontynu wykonuj:
+	xi = (xi+x/xi)/2
+	p = czêœæ_ca³kowita(xi)
+	je¿eli p*p <= x i (x+1)*(p+1) > x:
+		kontynu = fa³sz
+	je¿eli (p-1)*(p-1) <= x i p*p > x:
+		p = p-1
+		kontynu = fa³sz

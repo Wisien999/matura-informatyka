@@ -1,0 +1,23 @@
+fun na_system(num, base):
+	converted <- ""
+	je¿eli num == 0:
+		zwróæ "0"
+	dopuki num > 0:
+		converted <- (num mod base) + converted
+		num <- num/base
+	zwróæ converted
+
+
+je¿eli x == 0:
+	zwróæ TAK
+w przeciwnym wypadku:
+	dl <- 0
+	num <- x
+	converted[x]
+	dopuki num > 0 wylonuj:
+		converted <- (num mod base) + converted
+		num <- num/base
+		dl < dl + 1
+	
+	
+	

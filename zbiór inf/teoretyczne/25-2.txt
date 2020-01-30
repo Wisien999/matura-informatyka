@@ -1,0 +1,13 @@
+start <- 1
+end <- d
+
+dopuki start < end wykonuj:
+	dopuki Zdanie[start] == " " wykonuj:
+		start <- start + 1
+	dopuki Zdanie[end] == " " wykonuj:
+		end <- end - 1
+	je¿eli Zdanie[start] != Zdanie[end] wykonaj:
+		zwróæ NIE i zakoñcz
+	start <- start + 1
+	end <- end - 1
+zwróæ TAK i zakoñcz

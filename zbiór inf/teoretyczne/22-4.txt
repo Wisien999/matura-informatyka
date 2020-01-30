@@ -1,0 +1,5 @@
+q = x*x
+w = a[n]
+dla k <- n-1, n-2, ..., 2, 1, 0 wykonuj:
+	w < w*q + a[k]
+zwróæ w i zakoñcz

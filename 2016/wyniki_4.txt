@@ -1,0 +1,5 @@
+Zad 4.1:
+a) Wspó³¿êdne punktów nale¿¹cych do brzegu ko³a:
+200	400
+256	8
+b) Iloœæ punktów nale¿¹cych do wnêtrza ko³a: 7852

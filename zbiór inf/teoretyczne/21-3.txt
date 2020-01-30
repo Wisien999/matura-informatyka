@@ -1,0 +1,5 @@
+p <- x
+dla i <- n-1, n-2, ..., 1, 0 wykonuj:
+	p <- p*p
+	je¿eli k[i] == 1 wykonuj:
+		p <- p*x
