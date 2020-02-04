@@ -22,7 +22,7 @@ for password in passwords:
             big_letter = True
         if ord(c) >= ord("a") and ord(c) <= ord("z"):
             small_letter = True
-    
+
     if digit and big_letter and small_letter:
         ammount += 1
 
