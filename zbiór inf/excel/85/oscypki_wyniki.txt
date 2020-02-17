@@ -1,0 +1,39 @@
+Zad1
+41406 l
+
+Zad2
+8360
+
+Zad3
+2014-05-04
+Dni w których zabrak³o oscypków by³o 50
+
+Zad4
+miesi¹c	
+4	72
+5	1626
+6	1656
+7	1628
+8	1243
+9	586
+
+Zad5
+744
+
+
+Sub Sprawdz_min_owiec()
+'
+' Sprawdz_min_owiec Makro
+'
+
+'
+    While Range("L165").Value > 0
+     Range("B1") = Range("B1").Value + 1
+    Wend
+    
+End Sub
+
+Zad6
+a) 6811
+b) 
+c) 
