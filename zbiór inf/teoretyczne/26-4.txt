@@ -1,0 +1,13 @@
+dla i = 1,2,...,10 wykonaj:
+	litera_x[i] <- 0
+	litera_y[i] <- 0
+d <- dlugosc(X)
+dla i = 1,2,...,d wykonaj:
+	litera_x[kod(X[i])] <- litera_x[kod(X[i])] + 1
+d <- dlugosc(Y)
+dla i = 1,2,...,d wykonaj:
+	litera_y[kod(Y[i])] <- litera_y[kod(Y[i])] + 1
+dla i = 1,2,...,10 wykonuj:
+	je¿eli litera_x[i] != litera_y[i] wykonaj:
+		zwróæ 0 i zakoñcz
+zwróæ 1
