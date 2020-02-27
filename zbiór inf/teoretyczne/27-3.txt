@@ -1,0 +1,13 @@
+i <- 1
+dopuki i < n wykonuj:
+    err <- falsz
+    dla j := 1, 2, ... m wykonuj:
+        jeżeli wzorzec[j] =/= tekst[i+j-1] wykonaj:
+            jeżeli err = fałsz wykonaj:
+                err <- prawda
+            w innym wypadku:
+                przerwij pętlę
+        jeżeli j = m wykonaj:
+            wypisz "TAK" i zakończ
+    i <- i+1
+wypisz "NIE"
