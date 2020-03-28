@@ -1,0 +1,4 @@
+zad1
+faktur: 540
+najwy¿sza wartoœæ faktury: 1250
+iloœæ klientów którym wystawiono wiêcej ni¿ jedn¹ fakturê: 33
