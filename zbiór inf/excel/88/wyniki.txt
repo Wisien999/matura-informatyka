@@ -1,0 +1,18 @@
+Zad1
+Sprzedane: 592
+Zosta³o na placu: 8
+
+
+Zad3
+11 dnia sprzedarzy
+
+
+Zad4
+Dostaw: 17
+Dni dostaw: 1, 4, 6, 8, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23
+Sprzedanych choinek: 819
+
+
+Zad5
+Liczba choinek w jednej dostawie: 35
+Na placu po 24 grudnia: 21
