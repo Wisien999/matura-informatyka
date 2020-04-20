@@ -1,0 +1,16 @@
+Zad1
+Rusztowanie aluminiowe wys. 5m
+Wypo¿yczone: 28 razy
+
+Zad2
+1750
+
+Zad3
+Nazwisko	Imie
+Budzisz		Marcin
+Dudek		Wojciech
+Kusz		Izabela
+
+Zad4
+68
+

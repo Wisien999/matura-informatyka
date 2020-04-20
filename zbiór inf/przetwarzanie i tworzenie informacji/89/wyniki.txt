@@ -1,0 +1,25 @@
+Zad1
+Bialaszewski	Wiktor
+Cicherski	Szymon
+Florek		Sandra
+Kaminski	Mikolaj
+Krol		Malgorzata
+
+Zad2
+Moda punktów: 55,6
+Broszkow	Zofia
+Majtas		Lucja
+Murczynska	Laura
+Odya		Kacper
+Sochacka	Inka
+Sokolnicka	Inga
+
+Zad3
+Grzelecki	Oliwier
+Przytula	Jakub
+Rembiewski	Jakub
+Wojcicki	Aleks
+
+
+Zad5
+300 uczniów

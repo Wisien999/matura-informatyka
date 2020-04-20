@@ -1,0 +1,55 @@
+Zad1
+Beatrycze
+Ines
+Doris
+
+Zad2
+Imie		Nazwisko	PESEL
+Andrzej		Wizniewski	08321103754
+Andrzej		Wizniewski	09321501177
+Krzysztof	Michalak	08322201772
+Krzysztof	Michalak	09311310792
+Malgorzata	Kozlowska	09211700664
+Malgorzata	Kozlowska	09313003607
+Malgorzata	Kozlowska	67112966668
+Mateusz		Kowalczyk	59031152059
+Mateusz		Kowalczyk	66100294134
+
+Zad3
+Najwiêksza: Dzierzak	Piotr
+Najmniejsza: Wendt	Amelia
+
+Zad4
+styczeñ		68
+luty		33
+marzec		9
+kwiecieñ	16
+maj		13
+czerwiec	15
+lipiec		19
+sierpieñ	22
+wrzesieñ	32
+paŸdziernik	67
+listopad	99
+grudzieñ	101
+
+Zad5
+AWie3
+AWit4
+AWoj0
+AWoj2
+AWoj8
+BWas9
+JPod4
+KMic2
+LMar4
+MKoc9
+MKor0
+MKow4
+MLub7
+NJak2
+NJan3
+NJan6
+SCie9
+SDab7
+ZAda1

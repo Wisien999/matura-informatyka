@@ -1,0 +1,7 @@
+Zad1
+Katowice, 57 osób
+Politechnika Informatyczno-Elektroniczna 
+
+Zad2
+a) 143
+b) 2257
