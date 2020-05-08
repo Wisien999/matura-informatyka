@@ -1,0 +1,43 @@
+Zad1
+Ewelina	Adamska
+
+Zad2
+Rzepka		42
+Rzymski		42
+Maskor		41
+Laska		41
+Budzianowska	41
+Kolarski	41
+
+Zad3
+Radom		27 599,50 z³
+Siedlce		34 215,40 z³
+Zgierz		38 263,50 z³
+Kutno		43 372,80 z³
+Kielce		48 014,70 z³
+Olsztyn		50 606,60 z³
+Kalisz		51 099,00 z³
+Lublin		53 209,50 z³
+Mielec		54 144,00 z³
+Bydgoszcz	63 932,00 z³
+Krakow		80 344,50 z³
+Katowice	81 486,30 z³
+Malbork		84 280,00 z³
+
+Zad4
+styczeñ 130
+luty 68 
+marzec 63 
+kwiecieñ 32 
+maj 31 
+czerwiec 63 
+lipiec 70 
+sierpieñ 54 
+wrzesieñ 121 
+paŸdziernik 103 
+listopad 135 
+grudzieñ 130
+
+Zad5
+Liczba noclegów pracowników we wszystkich delegacjach — 1,64 ±0,01
+Liczba noclegów pracowników w delegacjach co najmniej 2-dniowych — 2,25 ±0,01

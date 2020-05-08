@@ -1,0 +1,23 @@
+Zad1
+Id dziecka: 718
+Przyrost: 270%
+
+Zad2
+10lat	11lat	12lat	13lat
+
+Zad3
+17
+
+Zad4
+Dziewczyny: 8 rok
+Ch³opcy: 11 rok
+
+Zad5
+	5-ty	95-ty
+1 rok	68	80
+10 rok	128	147
+19 rok	166	187
+
+Zad6
+Wiek	0lat	1rok	2lata	3lata	4lata	5lat	6lat	7lat	8lat	9lat	10lat	11lat	12lat	13lat	14lat	15lat	16lat	17 lat	18lat	19lat
+Mediana	52	74	87	96	103	110	116	121	127	132	138	143	149	156	163	169	173	175	176	176

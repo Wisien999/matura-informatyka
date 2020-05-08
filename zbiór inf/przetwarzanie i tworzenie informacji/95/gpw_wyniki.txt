@@ -1,0 +1,26 @@
+Zad1
+LPP	7485,84
+WAWEL	960,06
+PZU	481,56
+
+Zad2
+MILKILAND	27,85%
+
+Zad3
+a)
+Spó³kie krajowe: 418
+Spó³ki zagraniczne: 52
+b)
+Spó³ki krajowe: 2427046811	98,79%
+Só³ki zagraniczne: 29736190	1,21%
+
+Zad4
+Data		£¹czna wartoœæ			WIG
+21.01.2015: 	281 091 498 490,00 z³ 		50987,13
+22.01.2015: 	284 219 170 040,00 z³ 		51554,46
+23.01.2015: 	285 297 602 760,00 z³ 		51750,07
+
+Zad5
+Warto kupiæ: 53
+Warto sprzedaæ: 20
+Warto obserwowaæ: 397

@@ -1,0 +1,34 @@
+Zad1
+Pañstwa: 54
+£¹czna liczba medali: 1218
+
+
+Zad2
+Kontynent	Olimpiay letnie	Olimpiady zimowe
+Afryka		297		30
+Ameryka Pld.	218		52
+Ameryka Pln.	236		88
+Australia i Oc.	55		34
+Azja		422		177
+Europa		682		571
+
+
+Zad3
+Burundi
+Kamerun
+Zjednoczone Emiraty Arabskie
+
+
+Zad4
+Kontynent		Pañstwo 		Iloœæ medali
+Afryka			Kenia			86
+Ameryka	Pld.		Brazylia		108
+Ameryka Pln.		StanyZjednoczone	2681
+Australia i Oc.		Australia		480
+Azja			Chiny			526
+Europa			ZSRR			1204
+
+
+Zad5
+Iloœæ krajów letnich w Europie: 35
+Iloœæ krajów zimowych w Europie: 3
