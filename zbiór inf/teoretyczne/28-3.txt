@@ -1,0 +1,16 @@
+funkcja czySłabyAPalindron(W, m):
+	jeżeli W jest słowem pustym:
+		zwróć "Nie" i zakończ
+	jeżeli W = "A" wykonaj:
+		zwróć "Tak" i zakończ
+    m := długość(W)
+	jeżeli m mod 2=1:
+		zwróć "Nie" i zakończ
+	w przeciwnym razie:
+        jeżeli W[1] =/= "A" lub W[m] =/= "A":
+            zwróć "Nie" i zakończ
+		answ := czySłabyAPalindron(W[1;m/2])
+		jeżeli answ = "Tak":
+			zwróć answ i zakończ:
+		w przeciwnym razie:
+			zwróć czySłabyAPalindron(W[m/2+1,m])
