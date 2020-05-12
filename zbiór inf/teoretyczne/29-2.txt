@@ -1,0 +1,9 @@
+pusty(liera)
+ostatnia := pobierz(wiadomosc)
+dolacz(liera, ostatnia)
+aktualna := pobierz(wiadomosc)
+dopuki ostatnia =/= czarna lub aktualna =/= czarna wykonuj:
+    statnia := aktualna
+    dolacz(litera, aktualna)
+    aktualna := pobierz(wiadomosc)
+dolacz(litera, aktualna)

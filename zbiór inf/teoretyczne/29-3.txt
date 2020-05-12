@@ -1,0 +1,3 @@
+pusty(wiadomosc)
+dopuki czy_sa_kulki(ciag) wykonuj:
+    dopisz(wiadomosc, pobierz_litere(ciag))
