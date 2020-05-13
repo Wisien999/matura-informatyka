@@ -1,0 +1,6 @@
+funkcja szyfruj(zn, k):
+    kod_zn := kod(zn) - 65
+    kod_zn := (kod_zn + k) mod 26
+    kod_zn := kod_zn + 65
+    zwróć znak(kod_zn)
+    
