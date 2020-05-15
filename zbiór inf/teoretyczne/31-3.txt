@@ -1,0 +1,11 @@
+n := długość(X)
+m := n div k
+jeżeli n mod k =/= 0:
+    m := m + 1
+pos := 1
+dla i := 1, 2, 3, ..., m wykonuj:
+    j := i
+    dopuki j <= n wykonuj:
+        W[j] := X[pos]
+        j := j + m
+        pos := pos + 1
