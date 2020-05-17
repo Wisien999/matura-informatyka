@@ -1,0 +1,9 @@
+dla i := 1, 2, 3, ..., n wykonuj:
+    jeżeli napis[i] = "(" wykonaj:
+        j := i + 1
+        dopuki napis[j] != ")" wykonuj:
+            wypisz napis[j]
+            j := j + 1
+    w przeciwnym wypadku:
+        jeżeli napis[i] != ")" wykonaj:
+            wypisz napis[i]

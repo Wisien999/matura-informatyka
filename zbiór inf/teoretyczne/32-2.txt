@@ -1,0 +1,12 @@
+możliwe := fałsz
+jeżeli n mod 2 = 0 wykonaj:
+    dla i := 1, 2, 3, ..., n div 2 wykonuj:
+        jeżeli napis[i] =/= napis[(n div 2) + 1] wykonaj:
+            możliwe := fałsz
+            przerwij pętlę
+jeżeli możliwe wykonaj:
+    wypisz "("
+    dla i := 1, 2, 3, ..., n div 2 wykonuj:
+        wypisz napis[i]
+    wypisz ")"
+

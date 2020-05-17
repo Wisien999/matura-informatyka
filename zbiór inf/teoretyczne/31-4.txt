@@ -1,0 +1,17 @@
+n := długość(X)
+m := n div k
+jeżeli n mod k =/= 0:
+    m := m + 1
+j := 1
+dla i := 1, 2, 3, ..., m wykonuj:
+    jeżlei i mod 2 = 1 wykonaj:
+        j := i
+        dopuki j <= n wykonuj:
+            wypisz W[j]
+            j := j + m
+    w przeciwnym wypadku:
+        j := j + 1
+        dopuki j > 0 wykonuj:
+            jeżeli j <= n wykonaj:
+                wypisz W[j]
+            j := j - m

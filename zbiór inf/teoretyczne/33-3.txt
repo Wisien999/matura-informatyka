@@ -1,0 +1,9 @@
+wartosc_trasy := 0
+dla j := 1, 2, ..., n wykonuj:
+    max = -1
+    dla i := 1, 2, ..., n wykonuj:
+        jeżeli A[i, j] > max wykonaj:
+            max := A[i, j]
+    wartosc_trasy := wartosc_trasy + max
+
+zwróć wartosc_trasy
