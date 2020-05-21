@@ -1,0 +1,12 @@
+Zad4.1
+Najwiêksza luka: 1056392131
+Najmniejsza luka: 1
+
+Zad4.2
+D³ugoœæ: 17
+Liczba na pocz¹tku: 193134524
+Liczba na koñcu: 223545714
+
+Zad4.3
+Krotnoœæ najczêstszej luki: 31
+Wartosci najczestszych luk: 149, 11

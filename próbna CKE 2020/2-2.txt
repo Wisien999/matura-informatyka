@@ -1,0 +1,10 @@
+m_count := 0
+dla i := 1, 2, 3, ..., n wykonuj:
+	count := 1
+	dla j := i+1, i+2, ..., n wykonuj:
+		je¿eli T[i] = T[j] wykonaj:
+			count := count + 1
+	je¿eli count > m_count wykonaj:
+		m_count := count
+		m := T[i]
+zwróæ m i zakoñcz

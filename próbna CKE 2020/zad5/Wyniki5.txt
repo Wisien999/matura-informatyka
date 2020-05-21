@@ -1,0 +1,17 @@
+Zad5.1
+- temperatura powietrza nie przekracza³a ° 15 C : 88
+– temperatura przekracza³a ° 15 C, a jednoczeœnie opady dobowe nie przekracza³y 0,6 l/m2 : 73
+– temperatura przekracza³a 15°C i jednoczeœnie opady dobowe przekracza³y 0,6 l/m2 : 22
+
+Zad5.2
+06.05.2015
+13172 litrów
+
+Zad5.4
+Koszt	Miesi¹c
+0	kwiecieñ
+164,36	maj
+1056,6	czerwiec
+2559,32	lipiec
+3651,14	sierpieñ
+1326,62	wrzesieñ
