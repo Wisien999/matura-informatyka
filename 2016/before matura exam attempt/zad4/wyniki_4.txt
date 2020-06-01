@@ -1,0 +1,13 @@
+Zad1
+256 8
+200 400
+Punktów we wnêtrzu ko³a: 7852
+
+Zad2
+Przybli¿enie pi na podstawie 1000 punktów: 3.2280
+Przybli¿enie pi na podstawie 5000 punktów: 3.1656
+Przybli¿enie pi na podstawie 10000 punktów: 3.1416
+
+Zad3
+n=1000; 0.0864
+n=1700; 0.0184

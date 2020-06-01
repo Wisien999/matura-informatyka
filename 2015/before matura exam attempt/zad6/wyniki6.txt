@@ -1,0 +1,25 @@
+Zad1
+Rok	GrandPrix
+2010	Australia
+
+Zad2
+Indie
+
+Zad3
+Rok	Imie	Nazwisko	Suma Punktów
+2000	Michael	Schumacher	108
+2006	Fernando	Alonso	134
+2012	Sebastian	Vettel	281
+
+Zad4
+Kraj		PoliczOfId_kierowcy
+Australia	2
+Brazylia	2
+Finlandia	1
+Francja		2
+Hiszpania	1
+Japonia		1
+Meksyk		1
+Niemcy		4
+Wenezuela	1
+Wielka Brytania	3

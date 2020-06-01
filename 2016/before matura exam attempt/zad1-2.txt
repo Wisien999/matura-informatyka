@@ -1,0 +1,17 @@
+funkcja sumDziel(num):
+	i := 2
+	suma := 1
+	dopuki i*i <= num wykonuj:
+		je¿eli num mod i = 0 wykonaj:
+			suma := suma + i
+			je¿eli i*i != num wykonaj:
+				suma <= suma + (num div i)
+	zwróæ suma
+
+
+sum_a := sumDziel(a)
+b := sum_a - 1
+je¿eli sumDziel(b) = a + 1 wykonaj:
+	wypisz b
+w przeciwnym razie:
+	wypisz "NIE"

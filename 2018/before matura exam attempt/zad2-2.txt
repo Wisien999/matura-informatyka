@@ -1,0 +1,11 @@
+dla i <- 1, 2, 3, ..., n - 1 wykonaj:
+	index <- i
+	dla j <- i+1, i+2, ..., n wykonuj:
+		je¿eli X[j]/Y[j] < X[index]/Y[index] wykonaj:
+			index <- j
+	tmp <- X[index]
+	X[index] <- X[i]
+	X[i] <- tmp
+	tmp <- Y[index]
+	Y[index] <- Y[i]
+	Y[i] <- tmp

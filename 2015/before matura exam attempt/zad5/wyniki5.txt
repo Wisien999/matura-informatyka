@@ -1,0 +1,19 @@
+Zad1
+REGION	Ludnoœæ w 2013
+A	33 929 579
+B	41 736 619
+C	57 649 017
+D	36 530 387
+
+Zad2
+REGION		Suma
+A		3
+B		4
+C		8
+D		4
+Suma koñcowa	19
+
+Zad3
+Wszyscy mieszkañcy: 125 930 205
+Województwo z najwiêksz¹ liczb¹ mieszkañców: w12C
+Iloœæ województw w których wyst¹pi³o przeludnienie: 18

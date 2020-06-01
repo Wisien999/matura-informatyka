@@ -1,0 +1,31 @@
+Zad1
+Pojemnosc_dysku	PoliczOfNumer_komputera
+300		173
+200		31
+500		31
+800		29
+700		28
+600		26
+400		20
+290		11
+160		10
+220		10
+
+Zad2
+Numer_komputera	Iloœæ wymian podzespo³ów
+42		11
+123		11
+171		12
+202		12
+
+Zad3
+Data		Sekcja
+23.12.2015	Q
+
+Zad4
+Numer_zgloszenia	Czas_awarii		MaksimumOfCzas_naprawy
+2087			06.11.2015 12:38:46	13.11.2015 12:38:32
+
+Zad5
+PoliczOfNumer_komputera
+149

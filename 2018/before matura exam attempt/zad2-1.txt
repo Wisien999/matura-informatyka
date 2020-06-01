@@ -1,0 +1,6 @@
+x <- X[1]
+y <- Y[1]
+dla i <- 1, 2, 3, ..., n wykonaj:
+	je¿eli x/y < X[i]/Y[i] wykonaj:
+		x <- X[i]
+		y <- Y[i]
