@@ -1,0 +1,12 @@
+Zad1
+Najjaœniejszy: 221
+Najciemniejszy: 7
+
+Zad2
+Ile wierszy nale¿y usun¹æ: 149
+
+Zad3
+753
+
+Zad4
+5

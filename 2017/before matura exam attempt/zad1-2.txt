@@ -1,0 +1,11 @@
+max1 := 0
+max2 := 0
+
+dla i := 1, 2, 3, ..., n wykonuj:
+	je¿eli A[i] mod p != 0 wykonaj:
+		max2 := max1
+		max1 := A[i]
+	w przeciwnym razie je¿eli A[i] > max2 wykonaj:
+		max2 := A[i]
+
+S := max1 * max2
