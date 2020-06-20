@@ -1,0 +1,13 @@
+Zad4-1
+18
+
+Zad4-2
+2
+145
+1
+40585
+
+Zad4-3
+Pierwsza liczba: 31968
+D³ugoœæ ci¹gu: 150
+NWD: 74

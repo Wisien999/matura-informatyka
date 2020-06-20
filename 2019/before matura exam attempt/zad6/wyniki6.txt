@@ -1,0 +1,57 @@
+Zad6-1
+nazwa_perfum
+Ologne D'oud
+Oyal Priather
+Uelques FleuE
+
+
+Zad6-2
+rodzina_zapachow		nazwa_p			cena
+aromatyczna			Ibrary Ollec D'amore	124
+orientalna			Anille La Tosca		113
+orientalna lagodna		Ndy Warhol S Rose	122
+kwiatowo-orientalna		Arla : Vivace		103
+cytrusowa			Sian Grad		259
+wodna				Ilver Mounaya		146
+owocowa				Ake Perfucturne		154
+skorzana			Ui Mare			112
+cytrusowo-aromatyczna		Re Nostrum,ir		178
+drzewna				Pperlee Bouquet		123
+pudrowa				Ivm Cristal		139
+kwiatowo-drzewna		Rougna			104
+orientalno-drzewna		LackNight		138
+zielona				EOman			406
+szyprowo-skorzana		Uir OtPlace		158
+kwiatowo-szyprowa		Etish Pothal		287
+szyprowa			Usk ti 1888		226
+kwiatowa			Ose Deurmaline		110
+
+
+Zad6-3
+nazwa_m
+Aison Eranciro
+Arthbey
+Embert Lucas
+Enmith
+Nnick a Kieffo
+
+
+Zad6-4
+nazwa_p			Cena po obni¿ce
+Ourn Boise		141,95
+Onou Back		222,7
+Pic An			230,35
+Nterl Bambola		292,4
+Ubilatio Champs		381,65
+Ibrary Ollec D'or	489,6
+Ate An			544,85
+Elov & Musc		660,45
+
+
+Zad6-5
+rodzina_zapachow	nazwa_m
+aromatyczna		Ightce
+kwiatowo-orientalna	Enmith
+orientalna		Issmkunstwerke
+orientalna		Nnick a Kieffo
+orientalno-drzewna	X ICologne
